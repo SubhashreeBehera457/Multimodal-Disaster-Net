@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+phase1_prediction/data/
+*.csv
+.ipynb_checkpoints/
+__pycache__/
+.idea/
